@@ -169,4 +169,4 @@
 
 ## 贡献
 
-如果你愿意参与内容的迭代更新和错误修正。请先在 [GitHub](https://github.com/huhuhang/hands-on-ai-feedback/issues) 上提出新的 issue，并注明可以协助修订。我会确认后邀请你加入内容协作仓库。
+如果你愿意参与内容的迭代更新和错误修正。请先在 [GitHub](https://github.com/aibydoing/feedback/issues) 上提出新的 issue，并注明可以协助修订。我会确认后邀请你加入内容协作仓库。
